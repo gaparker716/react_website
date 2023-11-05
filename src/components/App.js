@@ -8,7 +8,7 @@ const App = () =>{
             <CountButton incrementBy={1} buttonColor={"cyan"}/>
             <CountButton incrementBy={2} buttonColor={"red"}/>
             <hr />
-            <p><a href="https://github.com/gaparker716">My github repo</a></p>
+            <p><a href="https://github.com/gaparker716/react_website">My github repo</a></p>
             <hr />
             <SearchBar />
         </div>
